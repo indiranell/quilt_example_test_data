@@ -1,0 +1,9 @@
+contents:
+  README:
+    file: README.md
+  patient_data:
+    patient_heart_rate:
+      file: patient_heart_rate_data\patient_heart_rate.csv
+  patient_history_info:
+    patient_history_details:
+      file: patient_history_info\patient_history_details.xlsx
